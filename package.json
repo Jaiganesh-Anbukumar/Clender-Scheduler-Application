@@ -1,0 +1,25 @@
+{
+  "name": "calendar scheduler",
+  "description": "Just a simple calendar scheduler",
+  "version": "1.4.4",
+  "main": "source/jsCalendar.js",
+  "author": {
+    "name": "Sheik"
+  },
+  "homepage": "https://github.com/Jaiganesh-Anbukumar/Clender-Scheduler-Frontend.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jaiganesh-Anbukumar/Clender-Scheduler-Frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jaiganesh-Anbukumar/Clender-Scheduler-Frontend.git"
+  },
+  "license": "MIT",
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": [
+    "calendar",
+    "javascript"
+  ]
+}
